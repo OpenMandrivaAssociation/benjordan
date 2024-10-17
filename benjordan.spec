@@ -5,7 +5,7 @@ Release:	1
 Source0:	http://www.grundislavgames.com/games/bj1deluxe.zip
 License:	distributable
 Group:		Games/Adventure
-Url:		http://www.grundislavgames.com/benjordan/case1.php
+Url:		https://www.grundislavgames.com/benjordan/case1.php
 BuildArch:	noarch
 Requires:	ags
 BuildRequires:	icoutils
